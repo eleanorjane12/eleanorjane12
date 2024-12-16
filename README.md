@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! A bit little about me...
 
 - I’m currently working on The Killer Date, a RenPy game!
 - I’m currently learning: C++
