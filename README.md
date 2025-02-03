@@ -1,5 +1,5 @@
 ### Hello! My name is Eleanor.
-
+<pre> 
             *      .         .                   .
     .                                      *         .         *
                       *            *           .-.
@@ -10,7 +10,7 @@
     |   |  |  /###/#\    |     |  |      .                 *
     |   |  |  |' '|:|    |`=.='|  |                      
 jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^""""""""""~~~~~~~~~~~~~~~~~~
-
+</pre>
 
 ## Here's a little about me..
 - I’m currently working on The Killer Date, a RenPy game!
