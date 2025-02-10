@@ -23,7 +23,6 @@ jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^""""""""""~~~~~~~~~~~~~~~~~~
     - Slay the Princess by Black Tabby Games
     - Marvel's Spider-Man on the PS5
     - Stardew Valley by ConcernedApe
-    - Fortnite by Epic Games
 
 
 (ascii art by joan stark)
