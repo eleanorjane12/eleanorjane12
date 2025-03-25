@@ -13,10 +13,8 @@ jgs^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^""""""""""~~~~~~~~~~~~~~~~~~
 </pre>
 
 ## Here's a little about me..
-- I’m currently working on The Killer Date, a RenPy game!
-- I’m currently learning React!
 - I live in Boston, MA, and New York, NY.
-- Ask me about PickleJar Games, my game company!
+- I'm currently working on The Killer Date, a visual novel game!
 - How to reach me: phone - 914-572-9537, email - collins.ele@northeastern.edu
 - Pronouns: she/her
 - Some of my favorite video games:
